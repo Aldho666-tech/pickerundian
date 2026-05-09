@@ -1,4 +1,33 @@
 const initialData = [
+    "Robby Maulana (K04-10)", "Nur Nawaningtyas P (D14-03)", "Wisnu Gilang Romadhon (A07-47)", "Anindia Rachma (D15-08)",
+    "Arman Adiansyah (K02-19)", "Mochamad Al Madania (K04-12)", "Feggy Nisa Sabelina (K02-10)", "Rizky Hidayatulloh (K02-15)",
+    "Bayu Dwinovaldo (K04-14)", "Putri Pratiwi (D15-09)", "Tedy Soprayogo (K02-21)", "Dede Fahrurrozi (D10-04)",
+    "Zalaludin Rahmat (K04-11)", "Helda Meliana (A07-36)", "Ari Astari (K02-09)", "Agnes Dwi Ayu Ningrum (A10-15)",
+    "Muhamad Rizky Indrajulianto (K04-12A)", "Muhidin (D04-26)", "Antsya Dwi Agustina (K02-17)", "Khoirul Bahary (K04-16)",
+    "Erna Susanti Kasaring (K07-05)", "Awalya Deviana Safitri (K07-06)", "Anwar Andryawan Gozaly (A05-02)", "Samsul Yusuf (K04-33)",
+    "Iwan Setiawan (K07-18)", "Edy Margono (K02-18)", "Intan Kartika Sari (K04-27)", "Sukmawati (K08-12)",
+    "Muhammad Raihansyah (A02-13)", "Rachman Kurniawan (K04-32)", "Hendro Sudrajat (K04-30)", "Gabryella Apriani Sinaga (K07-21)",
+    "Bilianus Sisap (K04-15)", "Muhammad Agil Munawar (K04-08)", "Rizky Asriansyah Marpaung (A07-41)", "Ramadhan Maulana (A02-10)",
+    "Deni Syarif Hamdani, ST (A07-39)", "Agustinus Wahyudi Sutopa (K07-04)", "Muhammad Fikri Imbar Ramadhan (K04-18)", "Evelin Octaviana Sitorus (K02-08)",
+    "Naufal Aziz Amara (A03-01)", "Muhamad Said (K04-01)", "Christian (K04-28)", "Aji Saputra (D10-05)",
+    "Ahmad Pujinursiwan (K02-12)", "Ilham Satiadi (K04-29)", "Dede Asep Surahman (D08-01)", "Hotdiran P Sinaga (K08-10)",
+    "Achmad Rais Jusa (K08-03)", "Muhammad Hifdhi Hilmi (D15-12)", "Gigih Adhitama (K04-05)", "Marlin Tinambunan (K04-04)",
+    "Diggy Irsan Djohan (K04-03)", "Ardani (K04-24)", "Arief Ahsan Nasrullah (K04-25)", "Fedro Budi Harjo (K02-07)",
+    "Andri Leksono (K02-05)", "Saeful Amar (K02-06)", "R. Aryo Pratomo Hadianto (K04-21)", "Dimas Maulana Malik (K04-06)",
+    "Fian Haryanto (K02-02)", "Fachmi Arifin (D13-04)", "Mahdy Rohmadoni (A07-35)", "Alian Bekti Wibowo (K02-26)",
+    "Tri Rahayu (K05-17)", "Rohimam (K02-28)", "Muhammad Adhi Utama (K02-25)", "Muhamad Erwin Triansah (K04-19)",
+    "Lukas Patty (K04-26)", "Martina Noor Dinari (K05-18)", "Doni Nurhidayat (K02-01)", "Ahmad Saroji (K07-14)",
+    "Abid Hariz (K07-15)", "Zidan Ramadhan (K04-22)", "Artoni (K03-05)", "Erni (K04-17)",
+    "Syumarinka Anpa Adora (K03-12)", "Dewi Sukmawati (K06-02)", "Anang Herdiana (K08-06)", "Tuti Alwiyah (K08-27)",
+    "Christanto Sim (K03-18)", "Muhammad Hamdani (K03-08)", "Tisha Yasmin Astridita Rambe (K04-02)", "Putri Ayu Madini (K08-23)",
+    "Khairannisa Vidany (A02-08)", "Firzha Ramadhan (K04-20)", "Eulis Nur Aisah (K07-02)", "Hastuti Melati (D14-04)",
+    "Finnland Chaniago (K03-16)", "Muhammad Ilham (K02-16)", "Bintang Arya Putra (K03-14)", "Wijiati Lestari (K07-22)",
+    "Lilia Yusnita (A03-03)", "Raihan Tsania Abdillah (K08-25)", "Reynold Sayhputra Rajagukguk (K03-10)", "Dana Akbar (K08-21)",
+    "Khoirul Hudayanto (K08-11)", "Suryadi (K03-09)", "Tiwi Resti Pratiwi (K05-24)", "Jaka Dwicahyo (K05-25)",
+    "Ilham Saputra (K04-31)", "Nina Anggian Putri (K08-12A)", "Herni (K06-05)", "Mochamad Apipi (A03-05)",
+    "Saiful Amri (K05-14)", "Yohanes Rekzy Pandie (K08-07)", "Helena Pasaribu (K05-23)", "Imanuel Abraham (D15-11)",
+    "Elka Yunita Sinaga, SE (K05-15)", "Iffah Marifah (K01-12)", "Muhammad Rizki Kurniawan (K01-18)", "Nurul Makarim (A03-04)",
+    "Herry Febrianto Indra (A03-03)", "Fachmi arifin (D13-04)", "Alian Bekti Wibowo (K02-06)"
 ];
 
 let participants = [...initialData];
